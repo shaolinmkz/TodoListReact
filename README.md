@@ -1,3 +1,9 @@
+# A TODO APP
+This is a Todo List app created for training purposes. It is a react based app that fetches mock data from [Typicode](https://jsonplaceholder.typicode.com/todos)
+>- Mentor: Brad Travesy
+>- Student: Obiora
+
+## About React
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
